@@ -1,2 +1,2 @@
 # RxSwiftDemo
-RxSwift Easy Demo Include Login &amp; List
+RxSwift Easy Demo Include Login & List

@@ -1,0 +1,22 @@
+PODS:
+  - KRActivityIndicatorView (2.0.2)
+  - KRProgressHUD (3.0.0):
+    - KRActivityIndicatorView (~> 2.0.2)
+  - RxCocoa (3.5.0):
+    - RxSwift (~> 3.4)
+  - RxSwift (3.5.0)
+
+DEPENDENCIES:
+  - KRProgressHUD
+  - RxCocoa (= 3.5.0)
+  - RxSwift (= 3.5.0)
+
+SPEC CHECKSUMS:
+  KRActivityIndicatorView: 2a9d5442ba8da6274db3afdf46aeaef7cf6dd8ad
+  KRProgressHUD: 14f9fad06080bdb1e59569104a8eda654c83e813
+  RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+
+PODFILE CHECKSUM: 94d4529b7b785eddf525f837d0be9fc02d90e6a6
+
+COCOAPODS: 1.2.1
